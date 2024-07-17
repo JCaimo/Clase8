@@ -15,5 +15,5 @@
 #         print(f"Status Code: {respuesta.status_code}")
 #         print(f"Mensaje de Error: {respuesta.json()}")
 
-# # Prueba la función
+# # Proba la funcion
 # obtener_clima("Buenos Aires")
